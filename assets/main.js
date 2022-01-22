@@ -2,257 +2,257 @@ const tt = {
     A: {
         mon: {
             1: {
-                name: "lsd",
+                name: "LSD",
             },
             2: {
-                name: "ds",
+                name: "DS",
             },
             3: {
-                name: "mat",
+                name: "Maths",
             },
             4: {
-                name: "oopj",
+                name: "OOPJ",
             },
             5: {
-                name: "lab",
+                name: "Lab",
             },
             6: {
-                name: "lab",
+                name: "Lab",
             },
             7: {
-                name: "lab",
+                name: "Lab",
             }
         },
         tue: {
             1: {
-                name: "mat",
+                name: "Maths",
             },
             2: {
-                name: "mat",
+                name: "Maths",
             },
             3: {
-                name: "oopj",
+                name: "OOPJ",
             },
             4: {
-                name: "lsd",
+                name: "LSD",
             },
             5: {
-                name: "ds",
+                name: "DS",
             },
             6: {
-                name: "oopj",
+                name: "OOPJ",
             },
             7: {
-                name: "de",
+                name: "DE",
             }
         },
         wed: {
             1: {
-                name: "lsd",
+                name: "LSD",
             },
             2: {
-                name: "ds",
+                name: "DS",
             },
             3: {
-                name: "mat",
+                name: "Maths",
             },
             4: {
-                name: "oopj",
+                name: "OOPJ",
             },
             5: {
-                name: "lab",
+                name: "Lab",
             },
             6: {
-                name: "lab",
+                name: "Lab",
             },
             7: {
-                name: "lab",
+                name: "Lab",
             }
         },
         thu: {
             1: {
-                name: "lsd",
+                name: "LSD",
             },
             2: {
-                name: "ds",
+                name: "DS",
             },
             3: {
-                name: "mat",
+                name: "Maths",
             },
             4: {
-                name: "oopj",
+                name: "OOPJ",
             },
             5: {
-                name: "lab",
+                name: "Lab",
             },
             6: {
-                name: "lab",
+                name: "Lab",
             },
             7: {
-                name: "lab",
+                name: "Lab",
             }
         },
         fri: {
             1: {
-                name: "lsd",
+                name: "LSD",
             },
             2: {
-                name: "ds",
+                name: "DS",
             },
             3: {
-                name: "mat",
+                name: "Maths",
             },
             4: {
-                name: "oopj",
+                name: "OOPJ",
             },
             5: {
-                name: "lab",
+                name: "Lab",
             },
             6: {
-                name: "lab",
+                name: "Lab",
             },
             7: {
-                name: "lab",
+                name: "Lab",
             }
         },
         sat: {
             1: {
-                name: "lsd",
+                name: "LSD",
             },
             2: {
-                name: "ds",
+                name: "DS",
             },
             3: {
-                name: "mat",
+                name: "Maths",
             },
             4: {
-                name: "oopj",
+                name: "OOPJ",
             },
             5: {
-                name: "lab",
+                name: "Lab",
             },
             6: {
-                name: "lab",
+                name: "Lab",
             },
             7: {
-                name: "lab",
+                name: "Lab",
             }
         },
     },
     B: {
         mon: {
             1: {
-                name: "lsd",
+                name: "OOPJ",
             },
             2: {
-                name: "oopj",
+                name: "Lab",
             },
             3: {
-                name: "mat",
+                name: "Lab",
             },
             4: {
-                name: "oopj",
+                name: "Lab",
             },
             5: {
-                name: "lab",
+                name: "Maths",
             },
             6: {
-                name: "lab",
+                name: "LSD",
             },
             7: {
-                name: "lab",
+                name: "DS",
             }
         },
         tue: {
             1: {
-                name: "mat",
+                name: "DE",
             },
             2: {
-                name: "mat",
+                name: "OOPJ",
             },
             3: {
-                name: "oopj",
+                name: "LSD",
             },
             4: {
-                name: "lsd",
+                name: "DS",
             },
             5: {
-                name: "ds",
+                name: "Maths",
             },
             6: {
-                name: "oopj",
+                name: "Maths",
             },
             7: {
-                name: "de",
+                name: "PLA",
             }
         },
         wed: {
             1: {
-                name: "lsd",
+                name: "LSD",
             },
             2: {
-                name: "ds",
+                name: "DE",
             },
             3: {
-                name: "mat",
+                name: "OOPJ",
             },
             4: {
-                name: "oopj",
+                name: "DS",
             },
             5: {
-                name: "lab",
+                name: "LSD",
             },
             6: {
-                name: "lab",
+                name: "OOPJ",
             },
             7: {
-                name: "lab",
+                name: "Maths",
             }
         },
         thu: {
             1: {
-                name: "lsd",
+                name: "LSD",
             },
             2: {
-                name: "ds",
+                name: "Maths",
             },
             3: {
-                name: "mat",
+                name: "OOPJ",
             },
             4: {
-                name: "oopj",
+                name: "DS",
             },
             5: {
-                name: "lab",
+                name: "Lab",
             },
             6: {
-                name: "lab",
+                name: "Lab",
             },
             7: {
-                name: "lab",
+                name: "Lab",
             }
         },
         fri: {
             1: {
-                name: "lsd",
+                name: "OOPJ",
             },
             2: {
-                name: "ds",
+                name: "Maths",
             },
             3: {
-                name: "mat",
+                name: "DS",
             },
             4: {
-                name: "oopj",
+                name: "DE",
             },
             5: {
-                name: "lab",
+                name: "Maths",
             },
             6: {
-                name: "lab",
+                name: "LSD",
             },
             7: {
-                name: "lab",
+                name: "DS",
             }
         },
         sat: {
@@ -272,10 +272,10 @@ const tt = {
                 name: "lab",
             },
             6: {
-                name: "lab",
+                name: "Sust",
             },
             7: {
-                name: "lab",
+                name: "Pla",
             }
         }
     }

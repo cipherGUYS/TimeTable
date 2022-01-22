@@ -1,5 +1,13 @@
+* {
+  font-family: "DM Sans";
+}
+
 body {
-  background-color: white;
+  background-color: black;
+}
+
+.container {
+  margin-top: 70px;
 }
 
 .main-card {
@@ -38,9 +46,17 @@ h5, h6 {
 .footer {
   font-size: 20px;
   font-weight: bold;
-  color: rgb(102, 100, 100); 
+  color: white; 
   text-align: center;
-  text-shadow: 8px 8px 9px #18283b; 
+  /* text-shadow: 8px 8px 9px #18283b;  */
+}
+
+.dropdown-menu {
+  background-color: rgb(37, 37, 37);
+}
+
+.dropdown-menu a {
+  color: white;
 }
 
 #hero {
