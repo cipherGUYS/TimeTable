@@ -3,31 +3,31 @@ const tt = {
         mon: {
             1: {
                 name: "lsd",
-                link: "www.goog"
+                link: "www.goog1"
             },
             2: {
                 name: "ds",
-                link: "www.goog"
+                link: "www.goog2"
             },
             3: {
                 name: "mat",
-                link: "www.goog"
+                link: "www.goog3"
             },
             4: {
                 name: "oopj",
-                link: "www.goog"
+                link: "www.goog4"
             },
             5: {
                 name: "lab",
-                link: "www.goog"
+                link: "www.goog5"
             },
             6: {
                 name: "lab",
-                link: "www.goog"
+                link: "www.goog6"
             },
             7: {
                 name: "lab",
-                link: "www.goog"
+                link: "www.goog7"
             }
         },
         tue: {
@@ -185,31 +185,31 @@ const tt = {
         mon: {
             1: {
                 name: "lsd",
-                link: "www.goog"
+                link: "www.1goog"
             },
             2: {
                 name: "oopj",
-                link: "www.goog"
+                link: "www.2goog"
             },
             3: {
                 name: "mat",
-                link: "www.goog"
+                link: "www.3goog"
             },
             4: {
                 name: "oopj",
-                link: "www.goog"
+                link: "www.4goog"
             },
             5: {
                 name: "lab",
-                link: "www.goog"
+                link: "www.5goog"
             },
             6: {
                 name: "lab",
-                link: "www.goog"
+                link: "www.6goog"
             },
             7: {
                 name: "lab",
-                link: "www.goog"
+                link: "www.7goog"
             }
         },
         tue: {
@@ -386,7 +386,9 @@ function getdiv(d,d1) {
     set();
 
 }
-
+function link(hr){
+    console.log(`${tt[div][day][hr].link}`);
+}
 function main(){
     const date = new Date();
     day = dd[date.getDay()];
