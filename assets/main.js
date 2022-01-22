@@ -3,181 +3,139 @@ const tt = {
         mon: {
             1: {
                 name: "lsd",
-                link: "www.goog1"
             },
             2: {
                 name: "ds",
-                link: "www.goog2"
             },
             3: {
                 name: "mat",
-                link: "www.goog3"
             },
             4: {
                 name: "oopj",
-                link: "www.goog4"
             },
             5: {
                 name: "lab",
-                link: "www.goog5"
             },
             6: {
                 name: "lab",
-                link: "www.goog6"
             },
             7: {
                 name: "lab",
-                link: "www.goog7"
             }
         },
         tue: {
             1: {
                 name: "mat",
-                link: "www.goog"
             },
             2: {
                 name: "mat",
-                link: "www.goog"
             },
             3: {
                 name: "oopj",
-                link: "www.goog"
             },
             4: {
                 name: "lsd",
-                link: "www.goog"
             },
             5: {
                 name: "ds",
-                link: "www.goog"
             },
             6: {
                 name: "oopj",
-                link: "www.goog"
             },
             7: {
                 name: "de",
-                link: "www.goog"
             }
         },
         wed: {
             1: {
                 name: "lsd",
-                link: "www.goog"
             },
             2: {
                 name: "ds",
-                link: "www.goog"
             },
             3: {
                 name: "mat",
-                link: "www.goog"
             },
             4: {
                 name: "oopj",
-                link: "www.goog"
             },
             5: {
                 name: "lab",
-                link: "www.goog"
             },
             6: {
                 name: "lab",
-                link: "www.goog"
             },
             7: {
                 name: "lab",
-                link: "www.goog"
             }
         },
         thu: {
             1: {
                 name: "lsd",
-                link: "www.goog"
             },
             2: {
                 name: "ds",
-                link: "www.goog"
             },
             3: {
                 name: "mat",
-                link: "www.goog"
             },
             4: {
                 name: "oopj",
-                link: "www.goog"
             },
             5: {
                 name: "lab",
-                link: "www.goog"
             },
             6: {
                 name: "lab",
-                link: "www.goog"
             },
             7: {
                 name: "lab",
-                link: "www.goog"
             }
         },
         fri: {
             1: {
                 name: "lsd",
-                link: "www.goog"
             },
             2: {
                 name: "ds",
-                link: "www.goog"
             },
             3: {
                 name: "mat",
-                link: "www.goog"
             },
             4: {
                 name: "oopj",
-                link: "www.goog"
             },
             5: {
                 name: "lab",
-                link: "www.goog"
             },
             6: {
                 name: "lab",
-                link: "www.goog"
             },
             7: {
                 name: "lab",
-                link: "www.goog"
             }
         },
         sat: {
             1: {
                 name: "lsd",
-                link: "www.goog"
             },
             2: {
                 name: "ds",
-                link: "www.goog"
             },
             3: {
                 name: "mat",
-                link: "www.goog"
             },
             4: {
                 name: "oopj",
-                link: "www.goog"
             },
             5: {
                 name: "lab",
-                link: "www.goog"
             },
             6: {
                 name: "lab",
-                link: "www.goog"
             },
             7: {
                 name: "lab",
-                link: "www.goog"
             }
         },
     },
@@ -185,185 +143,164 @@ const tt = {
         mon: {
             1: {
                 name: "lsd",
-                link: "www.1goog"
             },
             2: {
                 name: "oopj",
-                link: "www.2goog"
             },
             3: {
                 name: "mat",
-                link: "www.3goog"
             },
             4: {
                 name: "oopj",
-                link: "www.4goog"
             },
             5: {
                 name: "lab",
-                link: "www.5goog"
             },
             6: {
                 name: "lab",
-                link: "www.6goog"
             },
             7: {
                 name: "lab",
-                link: "www.7goog"
             }
         },
         tue: {
             1: {
                 name: "mat",
-                link: "www.goog"
             },
             2: {
                 name: "mat",
-                link: "www.goog"
             },
             3: {
                 name: "oopj",
-                link: "www.goog"
             },
             4: {
                 name: "lsd",
-                link: "www.goog"
             },
             5: {
                 name: "ds",
-                link: "www.goog"
             },
             6: {
                 name: "oopj",
-                link: "www.goog"
             },
             7: {
                 name: "de",
-                link: "www.goog"
             }
         },
         wed: {
             1: {
                 name: "lsd",
-                link: "www.goog"
             },
             2: {
                 name: "ds",
-                link: "www.goog"
             },
             3: {
                 name: "mat",
-                link: "www.goog"
             },
             4: {
                 name: "oopj",
-                link: "www.goog"
             },
             5: {
                 name: "lab",
-                link: "www.goog"
             },
             6: {
                 name: "lab",
-                link: "www.goog"
             },
             7: {
                 name: "lab",
-                link: "www.goog"
             }
         },
         thu: {
             1: {
                 name: "lsd",
-                link: "www.goog"
             },
             2: {
                 name: "ds",
-                link: "www.goog"
             },
             3: {
                 name: "mat",
-                link: "www.goog"
             },
             4: {
                 name: "oopj",
-                link: "www.goog"
             },
             5: {
                 name: "lab",
-                link: "www.goog"
             },
             6: {
                 name: "lab",
-                link: "www.goog"
             },
             7: {
                 name: "lab",
-                link: "www.goog"
             }
         },
         fri: {
             1: {
                 name: "lsd",
-                link: "www.goog"
             },
             2: {
                 name: "ds",
-                link: "www.goog"
             },
             3: {
                 name: "mat",
-                link: "www.goog"
             },
             4: {
                 name: "oopj",
-                link: "www.goog"
             },
             5: {
                 name: "lab",
-                link: "www.goog"
             },
             6: {
                 name: "lab",
-                link: "www.goog"
             },
             7: {
                 name: "lab",
-                link: "www.goog"
             }
         },
         sat: {
             1: {
                 name: "lsd",
-                link: "www.goog"
             },
             2: {
                 name: "ds",
-                link: "www.goog"
             },
             3: {
                 name: "mat",
-                link: "www.goog"
             },
             4: {
                 name: "oopj",
-                link: "www.goog"
             },
             5: {
                 name: "lab",
-                link: "www.goog"
             },
             6: {
                 name: "lab",
-                link: "www.goog"
             },
             7: {
                 name: "lab",
-                link: "www.goog"
             }
         }
     }
 };
+const linktree = {
+    A:{
+        mat:"mata",
+        ds:"dsa",
+        lsd:"lsda",
+        oopj:"oopja",
+        de:"dea",
+        sus:"susa",
+        plac:"placa"
+    },
+    B:{
+        mat:"matb",
+        ds:"dsb",
+        lsd:"lsdb",
+        oopj:"oopjb",
+        de:"deb",
+        sus:"susb",
+        plac:"placb"
+    },
+
+}
 const dd=['mon','mon','tue','wed','thu','fri','sat','mon'];
 var div = "A";
 var day = "mon";
@@ -387,7 +324,7 @@ function getdiv(d,d1) {
 
 }
 function link(hr){
-    console.log(`${tt[div][day][hr].link}`);
+    console.log(`${linktree[div][tt[div][day][hr].name]}`  );
 }
 function main(){
     const date = new Date();
