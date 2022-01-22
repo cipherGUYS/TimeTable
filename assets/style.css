@@ -35,6 +35,14 @@ h5, h6 {
   color: white;
 }
 
+.footer {
+  font-size: 20px;
+  font-weight: bold;
+  color: rgb(102, 100, 100); 
+  text-align: center;
+  text-shadow: 8px 8px 9px #18283b; 
+}
+
 #hero {
   height: 100vh;
 }
