@@ -48,48 +48,48 @@ const tt = {
         },
         wed: {
             1: {
-                name: "LSD",
+                name: "Maths",
             },
             2: {
                 name: "DS",
             },
             3: {
-                name: "Maths",
+                name: "LSD",
             },
             4: {
-                name: "OOPJ",
+                name: "Plac",
             },
             5: {
-                name: "Lab",
+                name: "DE",
             },
             6: {
-                name: "Lab",
+                name: "DS",
             },
             7: {
-                name: "Lab",
+                name: "LSD",
             }
         },
         thu: {
             1: {
-                name: "LSD",
+                name: "DS",
             },
             2: {
-                name: "DS",
+                name: "OOPJ",
             },
             3: {
                 name: "Maths",
             },
             4: {
-                name: "OOPJ",
+                name: "LSD",
             },
             5: {
-                name: "Lab",
+                name: "DE",
             },
             6: {
-                name: "Lab",
+                name: "Math",
             },
             7: {
-                name: "Lab",
+                name: "OOPJ",
             }
         },
         fri: {
@@ -97,47 +97,47 @@ const tt = {
                 name: "LSD",
             },
             2: {
-                name: "DS",
+                name: "Lab",
             },
             3: {
-                name: "Maths",
+                name: "Lab",
             },
             4: {
-                name: "OOPJ",
+                name: "Lab",
             },
             5: {
-                name: "Lab",
+                name: "OOPJ",
             },
             6: {
-                name: "Lab",
+                name: "MAT",
             },
             7: {
-                name: "Lab",
+                name: "DS",
             }
         },
         sat: {
             1: {
-                name: "LSD",
+                name: "FREE",
             },
             2: {
-                name: "DS",
+                name: "FREE",
             },
             3: {
-                name: "Maths",
+                name: "FREE",
             },
             4: {
-                name: "OOPJ",
+                name: "FREE",
             },
             5: {
-                name: "Lab",
+                name: "Sust",
             },
             6: {
-                name: "Lab",
+                name: "Sust",
             },
             7: {
-                name: "Lab",
+                name: "Plac",
             }
-        },
+        }
     },
     B: {
         mon: {
@@ -257,47 +257,47 @@ const tt = {
         },
         sat: {
             1: {
-                name: "lsd",
+                name: "FREE",
             },
             2: {
-                name: "ds",
+                name: "FREE",
             },
             3: {
-                name: "mat",
+                name: "FREE",
             },
             4: {
-                name: "oopj",
+                name: "FREE",
             },
             5: {
-                name: "lab",
+                name: "Sust",
             },
             6: {
                 name: "Sust",
             },
             7: {
-                name: "Pla",
+                name: "Plac",
             }
         }
     }
 };
 const linktree = {
     A:{
-        mat:"mata",
-        ds:"dsa",
-        lsd:"lsda",
-        oopj:"oopja",
-        de:"dea",
-        sus:"susa",
-        plac:"placa"
+        //Maths:"Mata",
+        DS:"https://meet.google.com/afs-afxw-svs",
+        LSD:"https://meet.google.com/aqt-ukpw-suw",
+        oopj:"https://meet.google.com/whv-wzvp-svk",
+        DE:"https://meet.google.com/bdw-vuqk-wig",
+        Sust:"https://meet.google.com/hqr-kgjf-cou",
+        Plac:"https://meet.google.com/mvz-soum-ngt"
     },
     B:{
-        mat:"https://meet.google.com/wti-xeqq-pey",
-        ds:"http://meet.google.com/mqw-dcdw-juo",
-        lsd:"https://meet.google.com/awy-dcki-emx",
+        Maths:"https://meet.google.com/wti-xeqq-pey",
+        DS:"http://meet.google.com/mqw-dcdw-juo",
+        LSD:"https://meet.google.com/awy-dcki-emx",
         oopj:"https://meet.google.com/whv-wzvp-svk",
-        de:"https://meet.google.com/qks-doaq-heg",
-        sus:"susbhttps://meet.google.com/hqr-kgjf-cou",
-        plac:"https://meet.google.com/mvz-soum-ngt"
+        DE:"https://meet.google.com/qks-doaq-heg",
+        Sust:"https://meet.google.com/hqr-kgjf-cou",
+        Plac:"https://meet.google.com/mvz-soum-ngt"
     },
 }
 const dd=['mon','mon','tue','wed','thu','fri','sat','mon'];
@@ -323,7 +323,8 @@ function getdiv(d,d1) {
 
 }
 function link(hr){
-    console.log(`${linktree[div][tt[div][day][hr].name]}`  );
+    console.log(`${linktree[div][tt[div][day][hr].name]}`);
+    
 }
 function main(){
     const date = new Date();
