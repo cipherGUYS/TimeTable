@@ -364,7 +364,7 @@ const tt = {
         }
     }
 };
-const dd=['sun','mon','tue','wed','thu','fri','sat','sun'];
+const dd=['mon','mon','tue','wed','thu','fri','sat','mon'];
 var div = "A";
 var day = "mon";
 function set() {
