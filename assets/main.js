@@ -291,15 +291,14 @@ const linktree = {
         plac:"placa"
     },
     B:{
-        mat:"matb",
-        ds:"dsb",
-        lsd:"lsdb",
-        oopj:"oopjb",
-        de:"deb",
-        sus:"susb",
-        plac:"placb"
+        mat:"https://meet.google.com/wti-xeqq-pey",
+        ds:"http://meet.google.com/mqw-dcdw-juo",
+        lsd:"https://meet.google.com/awy-dcki-emx",
+        oopj:"https://meet.google.com/whv-wzvp-svk",
+        de:"https://meet.google.com/qks-doaq-heg",
+        sus:"susbhttps://meet.google.com/hqr-kgjf-cou",
+        plac:"https://meet.google.com/mvz-soum-ngt"
     },
-
 }
 const dd=['mon','mon','tue','wed','thu','fri','sat','mon'];
 var div = "A";
