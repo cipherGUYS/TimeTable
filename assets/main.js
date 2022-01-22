@@ -282,13 +282,14 @@ const tt = {
 };
 const linktree = {
     A:{
-        //Maths:"Mata",
+        Maths:"#",
         DS:"https://meet.google.com/afs-afxw-svs",
         LSD:"https://meet.google.com/aqt-ukpw-suw",
         oopj:"https://meet.google.com/whv-wzvp-svk",
         DE:"https://meet.google.com/bdw-vuqk-wig",
         Sust:"https://meet.google.com/hqr-kgjf-cou",
-        Plac:"https://meet.google.com/mvz-soum-ngt"
+        Plac:"https://meet.google.com/mvz-soum-ngt",
+        FREE:"#"
     },
     B:{
         Maths:"https://meet.google.com/wti-xeqq-pey",
@@ -297,7 +298,8 @@ const linktree = {
         oopj:"https://meet.google.com/whv-wzvp-svk",
         DE:"https://meet.google.com/qks-doaq-heg",
         Sust:"https://meet.google.com/hqr-kgjf-cou",
-        Plac:"https://meet.google.com/mvz-soum-ngt"
+        Plac:"https://meet.google.com/mvz-soum-ngt",
+        FREE:"#"
     },
 }
 const dd=['mon','mon','tue','wed','thu','fri','sat','mon'];
@@ -324,7 +326,7 @@ function getdiv(d,d1) {
 }
 function link(hr){
     console.log(`${linktree[div][tt[div][day][hr].name]}`);
-    
+    window.open(`${linktree[div][tt[div][day][hr].name]}`,"_blank");
 }
 function main(){
     const date = new Date();
