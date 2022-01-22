@@ -1,0 +1,115 @@
+body {
+  background-color: white;
+}
+
+.main-card {
+  border-radius: 30px;
+}
+
+.card-branch {
+  border-radius: 10px;
+  background-color: #2487ce;
+  height: auto;
+  width: 200px;
+  margin-top: 100px;
+  transition: transform .5s;
+  transform: scale(1.0);
+  box-shadow: 6px 6px 6px #8dabb6;
+
+}
+.card-branch:hover {
+  transition: transform .5s;
+  transform: scale(1.08);
+  cursor: pointer;
+  background-color: #3194db !important;
+  box-shadow: 10px 10px 10px #5c6c72;
+}
+
+.btn {
+  border-radius: 10px;
+  background-color: #2487ce !important;
+  /* color: rgb(0, 0, 0) !important; */
+  /* box-shadow: 5px 5px 5px #8dabb6; */
+}
+h5, h6 {
+  color: white;
+}
+
+#hero {
+  height: 100vh;
+}
+
+#div-selector {
+  margin-top: 50px;
+}
+
+#div-selector:hover {
+  background-color: #3194db !important;
+}
+
+#day-selector {
+  margin-top: 50px;
+}
+
+#day-selector:hover {
+  background-color: #3194db !important;
+}
+
+.row-l {
+  margin-bottom: 50px; 
+}
+
+@media screen and (max-width: 993px) {
+  .card-branch {
+    margin-top: 50px;
+  }
+
+  #div-selector {
+    margin-top: 25px;
+  }
+
+  #day-selector {
+    margin-top: 25px;
+  }
+
+  .row-l {
+    margin-bottom: 25px;
+  }
+}
+@media screen and (max-width:480px){
+  .member-card{
+    width: 70%;
+    height: auto;
+
+  }
+  .row-center{
+    display: flex;
+    justify-content: center;
+  }
+}
+
+#year-selector {
+  /* height: 150px !important; */
+  margin: 20px !important;
+  background-color: white !important;
+  color: black;
+}
+
+#branch-selector {
+  margin: 20px !important;
+  background-color: white !important;
+  color: black;
+}
+
+.card-admin-selection {
+  width: 400px !important;
+}
+
+#count-box {
+  height: 50px;
+  border-radius: 10px;
+}
+
+.nb-text {
+  color: white;
+}
