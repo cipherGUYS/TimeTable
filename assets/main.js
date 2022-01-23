@@ -327,8 +327,10 @@ function getdiv(d,d1) {
 
 }
 function link(hr){
-    console.log(`${linktree[div][tt[div][day][hr].name]}`);
-    window.open(`${linktree[div][tt[div][day][hr].name]}`,"_blank");
+    var l = `${linktree[div][tt[div][day][hr].name]}`;
+    if (l != "#"){
+     window.open(l,"_blank");
+    }
 }
 function main(){
     const date = new Date();
