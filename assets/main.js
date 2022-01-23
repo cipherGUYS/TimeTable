@@ -289,7 +289,8 @@ const linktree = {
         DE:"https://meet.google.com/bdw-vuqk-wig",
         Sust:"https://meet.google.com/hqr-kgjf-cou",
         Plac:"https://meet.google.com/mvz-soum-ngt",
-        FREE:"#"
+        FREE:"#",
+        Lab:"#"
     },
     B:{
         Maths:"https://meet.google.com/wti-xeqq-pey",
@@ -299,7 +300,8 @@ const linktree = {
         DE:"https://meet.google.com/qks-doaq-heg",
         Sust:"https://meet.google.com/hqr-kgjf-cou",
         Plac:"https://meet.google.com/mvz-soum-ngt",
-        FREE:"#"
+        FREE:"#",
+        Lab:"#"
     },
 }
 const dd=['mon','mon','tue','wed','thu','fri','sat','mon'];
