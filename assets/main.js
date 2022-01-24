@@ -282,7 +282,7 @@ const tt = {
 };
 const linktree = {
     A:{
-        Maths:"#",
+        Maths :"https://meet.google.com/tnz-edsc-pmk",
         DS:"https://meet.google.com/afs-afxw-svs",
         LSD:"https://meet.google.com/aqt-ukpw-suw",
         OOPJ :"https://meet.google.com/ziw-yaty-ydj",
