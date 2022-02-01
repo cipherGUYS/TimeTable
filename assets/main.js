@@ -284,7 +284,7 @@ const linktree = {
     A:{
         Maths :"https://meet.google.com/tnz-edsc-pmk",
         DS:"https://meet.google.com/afs-afxw-svs",
-        LSD:"https://meet.google.com/aqt-ukpw-suw",
+        LSD:"https://meet.google.com/izq-cpri-iwv",
         OOPJ :"https://meet.google.com/ziw-yaty-ydj",
         DE:"https://meet.google.com/bdw-vuqk-wig",
         Sust:"https://meet.google.com/hqr-kgjf-cou",
