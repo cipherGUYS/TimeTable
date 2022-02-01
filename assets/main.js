@@ -86,7 +86,7 @@ const tt = {
                 name: "DE",
             },
             6: {
-                name: "Math",
+                name: "Maths",
             },
             7: {
                 name: "OOPJ",
