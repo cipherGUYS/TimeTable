@@ -282,26 +282,26 @@ const tt = {
 };
 const linktree = {
     A:{
-        Maths :"https://meet.google.com/tnz-edsc-pmk",
-        DS:"https://meet.google.com/afs-afxw-svs",
-        LSD:"https://meet.google.com/izq-cpri-iwv",
-        OOPJ :"https://meet.google.com/ziw-yaty-ydj",
-        DE:"https://meet.google.com/bdw-vuqk-wig",
-        Sust:"https://meet.google.com/hqr-kgjf-cou",
-        Plac:"https://meet.google.com/mvz-soum-ngt",
-        FREE:"#",
-        Lab:"#"
+        Maths :"https://docs.google.com/document/d/1Vfec_x-DMtNPAsDNNHQ3Q1_WXi_j7OiFBSJ5cJUDVo4/edit?usp=sharing",
+        DS:"https://docs.google.com/document/d/1Vfec_x-DMtNPAsDNNHQ3Q1_WXi_j7OiFBSJ5cJUDVo4/edit?usp=sharing",
+        LSD:"https://docs.google.com/document/d/1Vfec_x-DMtNPAsDNNHQ3Q1_WXi_j7OiFBSJ5cJUDVo4/edit?usp=sharing",
+        OOPJ :"https://docs.google.com/document/d/1Vfec_x-DMtNPAsDNNHQ3Q1_WXi_j7OiFBSJ5cJUDVo4/edit?usp=sharing",
+        DE:"https://docs.google.com/document/d/1Vfec_x-DMtNPAsDNNHQ3Q1_WXi_j7OiFBSJ5cJUDVo4/edit?usp=sharing",
+        Sust:"https://docs.google.com/document/d/1Vfec_x-DMtNPAsDNNHQ3Q1_WXi_j7OiFBSJ5cJUDVo4/edit?usp=sharing",
+        Plac:"https://docs.google.com/document/d/1Vfec_x-DMtNPAsDNNHQ3Q1_WXi_j7OiFBSJ5cJUDVo4/edit?usp=sharing",
+        FREE:"https://docs.google.com/document/d/1Sb6MnH2UiIG3x9BGRlAnuytU5dbAUJLyHWT96ugrYM0/edit?usp=sharing",
+        Lab:"https://docs.google.com/document/d/1-cCCxgSHCfBvY9MhDYaGGBTpf9PoHcoNKUX6_rgyfsI/edit?usp=sharing"
     },
     B:{
-        Maths:"https://meet.google.com/wti-xeqq-pey",
-        DS:"http://meet.google.com/mqw-dcdw-juo",
-        LSD:"https://meet.google.com/awy-dcki-emx",
-        OOPJ :"https://meet.google.com/whv-wzvp-svk",
-        DE:"https://meet.google.com/qks-doaq-heg",
-        Sust:"https://meet.google.com/hqr-kgjf-cou",
-        Plac:"https://meet.google.com/mvz-soum-ngt",
-        FREE:"#",
-        Lab:"#"
+        Maths:"https://docs.google.com/document/d/1Vfec_x-DMtNPAsDNNHQ3Q1_WXi_j7OiFBSJ5cJUDVo4/edit?usp=sharing",
+        DS:"https://docs.google.com/document/d/1Vfec_x-DMtNPAsDNNHQ3Q1_WXi_j7OiFBSJ5cJUDVo4/edit?usp=sharing",
+        LSD:"https://docs.google.com/document/d/1Vfec_x-DMtNPAsDNNHQ3Q1_WXi_j7OiFBSJ5cJUDVo4/edit?usp=sharing",
+        OOPJ :"https://docs.google.com/document/d/1Vfec_x-DMtNPAsDNNHQ3Q1_WXi_j7OiFBSJ5cJUDVo4/edit?usp=sharing",
+        DE:"https://docs.google.com/document/d/1Vfec_x-DMtNPAsDNNHQ3Q1_WXi_j7OiFBSJ5cJUDVo4/edit?usp=sharing",
+        Sust:"https://docs.google.com/document/d/1Vfec_x-DMtNPAsDNNHQ3Q1_WXi_j7OiFBSJ5cJUDVo4/edit?usp=sharing",
+        Plac:"https://docs.google.com/document/d/1Vfec_x-DMtNPAsDNNHQ3Q1_WXi_j7OiFBSJ5cJUDVo4/edit?usp=sharing",
+        FREE:"https://docs.google.com/document/d/1Vfec_x-DMtNPAsDNNHQ3Q1_WXi_j7OiFBSJ5cJUDVo4/edit?usp=sharing",
+        Lab:"https://docs.google.com/document/d/1Vfec_x-DMtNPAsDNNHQ3Q1_WXi_j7OiFBSJ5cJUDVo4/edit?usp=sharing"
     },
 }
 const dd=['mon','mon','tue','wed','thu','fri','sat','mon'];
